@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Loans-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/loans-bean" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/loans-bean" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/loans-common-util" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/loans-common-util" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/loans-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/loans-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/loans-service-util" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/loans-usermanager" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/loans-web-util" charset="UTF-8" />
+  </component>
+</project>
