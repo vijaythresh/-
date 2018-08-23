@@ -5,15 +5,13 @@
       <list>
         <option value="$PROJECT_DIR$/loans-parent/pom.xml" />
         <option value="$PROJECT_DIR$/loans-usermanager/pom.xml" />
+        <option value="$PROJECT_DIR$/loans-manage-service/pom.xml" />
+        <option value="$PROJECT_DIR$/loans-manage-web/pom.xml" />
       </list>
-    </option>
-    <option name="ignoredFiles">
-      <set>
-        <option value="$PROJECT_DIR$/loans-common-util/pom.xml" />
-      </set>
     </option>
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_9" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
 </project>

@@ -9,6 +9,8 @@
         <module name="loans-bean" />
         <module name="loans-common-util" />
         <module name="loans-interface" />
+        <module name="loans-manage-service" />
+        <module name="loans-manage-web" />
         <module name="loans-service-util" />
         <module name="loans-usermanager" />
         <module name="loans-web-util" />
@@ -18,6 +20,9 @@
       <module name="loans-bean" target="1.8" />
       <module name="loans-common-util" target="1.8" />
       <module name="loans-interface" target="1.8" />
+      <module name="loans-manage-service" target="1.8" />
+      <module name="loans-manage-web" target="1.8" />
+      <module name="loans-manager-service" target="1.8" />
       <module name="loans-parent" target="1.8" />
       <module name="Loans-parent" target="1.8" />
       <module name="loans-service-util" target="1.8" />

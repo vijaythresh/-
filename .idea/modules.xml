@@ -6,6 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/loans-bean/loans-bean.iml" filepath="$PROJECT_DIR$/loans-bean/loans-bean.iml" />
       <module fileurl="file://$PROJECT_DIR$/loans-common-util/loans-common-util.iml" filepath="$PROJECT_DIR$/loans-common-util/loans-common-util.iml" />
       <module fileurl="file://$PROJECT_DIR$/loans-interface/loans-interface.iml" filepath="$PROJECT_DIR$/loans-interface/loans-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loans-manage-service/loans-manage-service.iml" filepath="$PROJECT_DIR$/loans-manage-service/loans-manage-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loans-manage-web/loans-manage-web.iml" filepath="$PROJECT_DIR$/loans-manage-web/loans-manage-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/loans-parent/loans-parent.iml" filepath="$PROJECT_DIR$/loans-parent/loans-parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/loans-service-util/loans-service-util.iml" filepath="$PROJECT_DIR$/loans-service-util/loans-service-util.iml" />
       <module fileurl="file://$PROJECT_DIR$/loans-usermanager/loans-usermanager.iml" filepath="$PROJECT_DIR$/loans-usermanager/loans-usermanager.iml" />
